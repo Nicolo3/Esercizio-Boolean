@@ -1,0 +1,65 @@
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.background {
+    width: 65%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+div header {
+    width: 800px;
+    margin: auto;
+    color: rgb(69, 252, 45);
+    text-align: center;
+}
+
+header > img {
+    margin-top: 60px;
+}
+
+div nav {
+    width: 79%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(69, 252, 45);
+    padding: 7px;
+}
+
+main {
+  padding: 0px 60px 95px 90px;
+  
+}
+
+.Monopattino {
+    color: white;
+    margin-top: 20px;
+}
+
+
+#charge {
+    width: 30%;
+    padding: 13px;
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+#charge2 {
+    width: 60%;
+    padding: 13px;
+    border-radius:  5px;
+    background-color: yellowgreen;
+}
+
+#charge3 {
+    width: 15%;
+    padding: 13px;
+    border-radius: 5px;
+    background-color: red;
+}  
